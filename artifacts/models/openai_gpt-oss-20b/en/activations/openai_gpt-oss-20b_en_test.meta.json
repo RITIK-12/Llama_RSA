@@ -1,0 +1,9 @@
+{
+  "model_id": "openai/gpt-oss-20b",
+  "revision": null,
+  "num_layers": 24,
+  "dtype": "bfloat16",
+  "max_length": 256,
+  "texts_count": 400,
+  "subset": "en"
+}

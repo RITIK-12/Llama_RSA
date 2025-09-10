@@ -1,0 +1,9 @@
+{
+  "model_id": "meta-llama/Llama-3.2-1B",
+  "revision": null,
+  "num_layers": 16,
+  "dtype": "bfloat16",
+  "max_length": 256,
+  "texts_count": 400,
+  "subset": "en"
+}

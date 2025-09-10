@@ -1,0 +1,1213 @@
+{
+  "subset": "en",
+  "rows": [
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.1-8B",
+      "slug": "meta-llama_Llama-3.1-8B",
+      "layer_idx": 1,
+      "layer_name": "layer_1"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.1-8B",
+      "slug": "meta-llama_Llama-3.1-8B",
+      "layer_idx": 2,
+      "layer_name": "layer_2"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.1-8B",
+      "slug": "meta-llama_Llama-3.1-8B",
+      "layer_idx": 3,
+      "layer_name": "layer_3"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.1-8B",
+      "slug": "meta-llama_Llama-3.1-8B",
+      "layer_idx": 4,
+      "layer_name": "layer_4"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.1-8B",
+      "slug": "meta-llama_Llama-3.1-8B",
+      "layer_idx": 5,
+      "layer_name": "layer_5"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.1-8B",
+      "slug": "meta-llama_Llama-3.1-8B",
+      "layer_idx": 6,
+      "layer_name": "layer_6"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.1-8B",
+      "slug": "meta-llama_Llama-3.1-8B",
+      "layer_idx": 7,
+      "layer_name": "layer_7"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.1-8B",
+      "slug": "meta-llama_Llama-3.1-8B",
+      "layer_idx": 8,
+      "layer_name": "layer_8"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.1-8B",
+      "slug": "meta-llama_Llama-3.1-8B",
+      "layer_idx": 9,
+      "layer_name": "layer_9"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.1-8B",
+      "slug": "meta-llama_Llama-3.1-8B",
+      "layer_idx": 10,
+      "layer_name": "layer_10"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.1-8B",
+      "slug": "meta-llama_Llama-3.1-8B",
+      "layer_idx": 11,
+      "layer_name": "layer_11"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.1-8B",
+      "slug": "meta-llama_Llama-3.1-8B",
+      "layer_idx": 12,
+      "layer_name": "layer_12"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.1-8B",
+      "slug": "meta-llama_Llama-3.1-8B",
+      "layer_idx": 13,
+      "layer_name": "layer_13"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.1-8B",
+      "slug": "meta-llama_Llama-3.1-8B",
+      "layer_idx": 14,
+      "layer_name": "layer_14"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.1-8B",
+      "slug": "meta-llama_Llama-3.1-8B",
+      "layer_idx": 15,
+      "layer_name": "layer_15"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.1-8B",
+      "slug": "meta-llama_Llama-3.1-8B",
+      "layer_idx": 16,
+      "layer_name": "layer_16"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.1-8B",
+      "slug": "meta-llama_Llama-3.1-8B",
+      "layer_idx": 17,
+      "layer_name": "layer_17"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.1-8B",
+      "slug": "meta-llama_Llama-3.1-8B",
+      "layer_idx": 18,
+      "layer_name": "layer_18"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.1-8B",
+      "slug": "meta-llama_Llama-3.1-8B",
+      "layer_idx": 19,
+      "layer_name": "layer_19"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.1-8B",
+      "slug": "meta-llama_Llama-3.1-8B",
+      "layer_idx": 20,
+      "layer_name": "layer_20"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.1-8B",
+      "slug": "meta-llama_Llama-3.1-8B",
+      "layer_idx": 21,
+      "layer_name": "layer_21"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.1-8B",
+      "slug": "meta-llama_Llama-3.1-8B",
+      "layer_idx": 22,
+      "layer_name": "layer_22"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.1-8B",
+      "slug": "meta-llama_Llama-3.1-8B",
+      "layer_idx": 23,
+      "layer_name": "layer_23"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.1-8B",
+      "slug": "meta-llama_Llama-3.1-8B",
+      "layer_idx": 24,
+      "layer_name": "layer_24"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.1-8B",
+      "slug": "meta-llama_Llama-3.1-8B",
+      "layer_idx": 25,
+      "layer_name": "layer_25"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.1-8B",
+      "slug": "meta-llama_Llama-3.1-8B",
+      "layer_idx": 26,
+      "layer_name": "layer_26"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.1-8B",
+      "slug": "meta-llama_Llama-3.1-8B",
+      "layer_idx": 27,
+      "layer_name": "layer_27"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.1-8B",
+      "slug": "meta-llama_Llama-3.1-8B",
+      "layer_idx": 28,
+      "layer_name": "layer_28"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.1-8B",
+      "slug": "meta-llama_Llama-3.1-8B",
+      "layer_idx": 29,
+      "layer_name": "layer_29"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.1-8B",
+      "slug": "meta-llama_Llama-3.1-8B",
+      "layer_idx": 30,
+      "layer_name": "layer_30"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.1-8B",
+      "slug": "meta-llama_Llama-3.1-8B",
+      "layer_idx": 31,
+      "layer_name": "layer_31"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.1-8B",
+      "slug": "meta-llama_Llama-3.1-8B",
+      "layer_idx": 32,
+      "layer_name": "layer_32"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-1B",
+      "slug": "meta-llama_Llama-3.2-1B",
+      "layer_idx": 1,
+      "layer_name": "layer_1"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-1B",
+      "slug": "meta-llama_Llama-3.2-1B",
+      "layer_idx": 2,
+      "layer_name": "layer_2"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-1B",
+      "slug": "meta-llama_Llama-3.2-1B",
+      "layer_idx": 3,
+      "layer_name": "layer_3"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-1B",
+      "slug": "meta-llama_Llama-3.2-1B",
+      "layer_idx": 4,
+      "layer_name": "layer_4"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-1B",
+      "slug": "meta-llama_Llama-3.2-1B",
+      "layer_idx": 5,
+      "layer_name": "layer_5"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-1B",
+      "slug": "meta-llama_Llama-3.2-1B",
+      "layer_idx": 6,
+      "layer_name": "layer_6"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-1B",
+      "slug": "meta-llama_Llama-3.2-1B",
+      "layer_idx": 7,
+      "layer_name": "layer_7"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-1B",
+      "slug": "meta-llama_Llama-3.2-1B",
+      "layer_idx": 8,
+      "layer_name": "layer_8"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-1B",
+      "slug": "meta-llama_Llama-3.2-1B",
+      "layer_idx": 9,
+      "layer_name": "layer_9"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-1B",
+      "slug": "meta-llama_Llama-3.2-1B",
+      "layer_idx": 10,
+      "layer_name": "layer_10"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-1B",
+      "slug": "meta-llama_Llama-3.2-1B",
+      "layer_idx": 11,
+      "layer_name": "layer_11"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-1B",
+      "slug": "meta-llama_Llama-3.2-1B",
+      "layer_idx": 12,
+      "layer_name": "layer_12"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-1B",
+      "slug": "meta-llama_Llama-3.2-1B",
+      "layer_idx": 13,
+      "layer_name": "layer_13"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-1B",
+      "slug": "meta-llama_Llama-3.2-1B",
+      "layer_idx": 14,
+      "layer_name": "layer_14"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-1B",
+      "slug": "meta-llama_Llama-3.2-1B",
+      "layer_idx": 15,
+      "layer_name": "layer_15"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-1B",
+      "slug": "meta-llama_Llama-3.2-1B",
+      "layer_idx": 16,
+      "layer_name": "layer_16"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-3B",
+      "slug": "meta-llama_Llama-3.2-3B",
+      "layer_idx": 1,
+      "layer_name": "layer_1"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-3B",
+      "slug": "meta-llama_Llama-3.2-3B",
+      "layer_idx": 2,
+      "layer_name": "layer_2"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-3B",
+      "slug": "meta-llama_Llama-3.2-3B",
+      "layer_idx": 3,
+      "layer_name": "layer_3"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-3B",
+      "slug": "meta-llama_Llama-3.2-3B",
+      "layer_idx": 4,
+      "layer_name": "layer_4"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-3B",
+      "slug": "meta-llama_Llama-3.2-3B",
+      "layer_idx": 5,
+      "layer_name": "layer_5"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-3B",
+      "slug": "meta-llama_Llama-3.2-3B",
+      "layer_idx": 6,
+      "layer_name": "layer_6"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-3B",
+      "slug": "meta-llama_Llama-3.2-3B",
+      "layer_idx": 7,
+      "layer_name": "layer_7"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-3B",
+      "slug": "meta-llama_Llama-3.2-3B",
+      "layer_idx": 8,
+      "layer_name": "layer_8"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-3B",
+      "slug": "meta-llama_Llama-3.2-3B",
+      "layer_idx": 9,
+      "layer_name": "layer_9"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-3B",
+      "slug": "meta-llama_Llama-3.2-3B",
+      "layer_idx": 10,
+      "layer_name": "layer_10"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-3B",
+      "slug": "meta-llama_Llama-3.2-3B",
+      "layer_idx": 11,
+      "layer_name": "layer_11"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-3B",
+      "slug": "meta-llama_Llama-3.2-3B",
+      "layer_idx": 12,
+      "layer_name": "layer_12"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-3B",
+      "slug": "meta-llama_Llama-3.2-3B",
+      "layer_idx": 13,
+      "layer_name": "layer_13"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-3B",
+      "slug": "meta-llama_Llama-3.2-3B",
+      "layer_idx": 14,
+      "layer_name": "layer_14"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-3B",
+      "slug": "meta-llama_Llama-3.2-3B",
+      "layer_idx": 15,
+      "layer_name": "layer_15"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-3B",
+      "slug": "meta-llama_Llama-3.2-3B",
+      "layer_idx": 16,
+      "layer_name": "layer_16"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-3B",
+      "slug": "meta-llama_Llama-3.2-3B",
+      "layer_idx": 17,
+      "layer_name": "layer_17"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-3B",
+      "slug": "meta-llama_Llama-3.2-3B",
+      "layer_idx": 18,
+      "layer_name": "layer_18"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-3B",
+      "slug": "meta-llama_Llama-3.2-3B",
+      "layer_idx": 19,
+      "layer_name": "layer_19"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-3B",
+      "slug": "meta-llama_Llama-3.2-3B",
+      "layer_idx": 20,
+      "layer_name": "layer_20"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-3B",
+      "slug": "meta-llama_Llama-3.2-3B",
+      "layer_idx": 21,
+      "layer_name": "layer_21"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-3B",
+      "slug": "meta-llama_Llama-3.2-3B",
+      "layer_idx": 22,
+      "layer_name": "layer_22"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-3B",
+      "slug": "meta-llama_Llama-3.2-3B",
+      "layer_idx": 23,
+      "layer_name": "layer_23"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-3B",
+      "slug": "meta-llama_Llama-3.2-3B",
+      "layer_idx": 24,
+      "layer_name": "layer_24"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-3B",
+      "slug": "meta-llama_Llama-3.2-3B",
+      "layer_idx": 25,
+      "layer_name": "layer_25"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-3B",
+      "slug": "meta-llama_Llama-3.2-3B",
+      "layer_idx": 26,
+      "layer_name": "layer_26"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-3B",
+      "slug": "meta-llama_Llama-3.2-3B",
+      "layer_idx": 27,
+      "layer_name": "layer_27"
+    },
+    {
+      "subset": "en",
+      "model_label": "meta-llama/Llama-3.2-3B",
+      "slug": "meta-llama_Llama-3.2-3B",
+      "layer_idx": 28,
+      "layer_name": "layer_28"
+    },
+    {
+      "subset": "en",
+      "model_label": "openai/gpt-oss-20b",
+      "slug": "openai_gpt-oss-20b",
+      "layer_idx": 1,
+      "layer_name": "layer_1"
+    },
+    {
+      "subset": "en",
+      "model_label": "openai/gpt-oss-20b",
+      "slug": "openai_gpt-oss-20b",
+      "layer_idx": 2,
+      "layer_name": "layer_2"
+    },
+    {
+      "subset": "en",
+      "model_label": "openai/gpt-oss-20b",
+      "slug": "openai_gpt-oss-20b",
+      "layer_idx": 3,
+      "layer_name": "layer_3"
+    },
+    {
+      "subset": "en",
+      "model_label": "openai/gpt-oss-20b",
+      "slug": "openai_gpt-oss-20b",
+      "layer_idx": 4,
+      "layer_name": "layer_4"
+    },
+    {
+      "subset": "en",
+      "model_label": "openai/gpt-oss-20b",
+      "slug": "openai_gpt-oss-20b",
+      "layer_idx": 5,
+      "layer_name": "layer_5"
+    },
+    {
+      "subset": "en",
+      "model_label": "openai/gpt-oss-20b",
+      "slug": "openai_gpt-oss-20b",
+      "layer_idx": 6,
+      "layer_name": "layer_6"
+    },
+    {
+      "subset": "en",
+      "model_label": "openai/gpt-oss-20b",
+      "slug": "openai_gpt-oss-20b",
+      "layer_idx": 7,
+      "layer_name": "layer_7"
+    },
+    {
+      "subset": "en",
+      "model_label": "openai/gpt-oss-20b",
+      "slug": "openai_gpt-oss-20b",
+      "layer_idx": 8,
+      "layer_name": "layer_8"
+    },
+    {
+      "subset": "en",
+      "model_label": "openai/gpt-oss-20b",
+      "slug": "openai_gpt-oss-20b",
+      "layer_idx": 9,
+      "layer_name": "layer_9"
+    },
+    {
+      "subset": "en",
+      "model_label": "openai/gpt-oss-20b",
+      "slug": "openai_gpt-oss-20b",
+      "layer_idx": 10,
+      "layer_name": "layer_10"
+    },
+    {
+      "subset": "en",
+      "model_label": "openai/gpt-oss-20b",
+      "slug": "openai_gpt-oss-20b",
+      "layer_idx": 11,
+      "layer_name": "layer_11"
+    },
+    {
+      "subset": "en",
+      "model_label": "openai/gpt-oss-20b",
+      "slug": "openai_gpt-oss-20b",
+      "layer_idx": 12,
+      "layer_name": "layer_12"
+    },
+    {
+      "subset": "en",
+      "model_label": "openai/gpt-oss-20b",
+      "slug": "openai_gpt-oss-20b",
+      "layer_idx": 13,
+      "layer_name": "layer_13"
+    },
+    {
+      "subset": "en",
+      "model_label": "openai/gpt-oss-20b",
+      "slug": "openai_gpt-oss-20b",
+      "layer_idx": 14,
+      "layer_name": "layer_14"
+    },
+    {
+      "subset": "en",
+      "model_label": "openai/gpt-oss-20b",
+      "slug": "openai_gpt-oss-20b",
+      "layer_idx": 15,
+      "layer_name": "layer_15"
+    },
+    {
+      "subset": "en",
+      "model_label": "openai/gpt-oss-20b",
+      "slug": "openai_gpt-oss-20b",
+      "layer_idx": 16,
+      "layer_name": "layer_16"
+    },
+    {
+      "subset": "en",
+      "model_label": "openai/gpt-oss-20b",
+      "slug": "openai_gpt-oss-20b",
+      "layer_idx": 17,
+      "layer_name": "layer_17"
+    },
+    {
+      "subset": "en",
+      "model_label": "openai/gpt-oss-20b",
+      "slug": "openai_gpt-oss-20b",
+      "layer_idx": 18,
+      "layer_name": "layer_18"
+    },
+    {
+      "subset": "en",
+      "model_label": "openai/gpt-oss-20b",
+      "slug": "openai_gpt-oss-20b",
+      "layer_idx": 19,
+      "layer_name": "layer_19"
+    },
+    {
+      "subset": "en",
+      "model_label": "openai/gpt-oss-20b",
+      "slug": "openai_gpt-oss-20b",
+      "layer_idx": 20,
+      "layer_name": "layer_20"
+    },
+    {
+      "subset": "en",
+      "model_label": "openai/gpt-oss-20b",
+      "slug": "openai_gpt-oss-20b",
+      "layer_idx": 21,
+      "layer_name": "layer_21"
+    },
+    {
+      "subset": "en",
+      "model_label": "openai/gpt-oss-20b",
+      "slug": "openai_gpt-oss-20b",
+      "layer_idx": 22,
+      "layer_name": "layer_22"
+    },
+    {
+      "subset": "en",
+      "model_label": "openai/gpt-oss-20b",
+      "slug": "openai_gpt-oss-20b",
+      "layer_idx": 23,
+      "layer_name": "layer_23"
+    },
+    {
+      "subset": "en",
+      "model_label": "openai/gpt-oss-20b",
+      "slug": "openai_gpt-oss-20b",
+      "layer_idx": 24,
+      "layer_name": "layer_24"
+    }
+  ],
+  "xyz": [
+    [
+      0.7367664575576782,
+      -0.31320738792419434,
+      -0.5140354037284851
+    ],
+    [
+      0.7888091802597046,
+      -0.34342825412750244,
+      -0.4517240822315216
+    ],
+    [
+      0.828414797782898,
+      -0.3208156228065491,
+      -0.38930729031562805
+    ],
+    [
+      0.8823818564414978,
+      -0.20369701087474823,
+      -0.26762333512306213
+    ],
+    [
+      0.8879995346069336,
+      -0.10287028551101685,
+      -0.04576205089688301
+    ],
+    [
+      0.90400630235672,
+      -0.080425925552845,
+      0.04445689171552658
+    ],
+    [
+      0.9142948389053345,
+      -0.09148222208023071,
+      0.08247765898704529
+    ],
+    [
+      0.9008256196975708,
+      -0.038604069501161575,
+      0.18397462368011475
+    ],
+    [
+      0.9117531180381775,
+      -0.031162718310952187,
+      0.19617992639541626
+    ],
+    [
+      0.8901281356811523,
+      0.001818385673686862,
+      0.23651301860809326
+    ],
+    [
+      0.9057024121284485,
+      0.011713756248354912,
+      0.22452658414840698
+    ],
+    [
+      0.9243113994598389,
+      0.01573415845632553,
+      0.18546076118946075
+    ],
+    [
+      0.9416236281394958,
+      0.02627423033118248,
+      0.12713471055030823
+    ],
+    [
+      0.9435837864875793,
+      0.06613603234291077,
+      0.0884382426738739
+    ],
+    [
+      0.9004164934158325,
+      0.1603560745716095,
+      0.0899730920791626
+    ],
+    [
+      0.903292179107666,
+      0.18974784016609192,
+      0.01980520784854889
+    ],
+    [
+      0.9223162531852722,
+      0.20999756455421448,
+      0.011539122089743614
+    ],
+    [
+      0.9235388040542603,
+      0.23835596442222595,
+      -0.007582721300423145
+    ],
+    [
+      0.9142652153968811,
+      0.2735283374786377,
+      0.008179213851690292
+    ],
+    [
+      0.9160114526748657,
+      0.2901156544685364,
+      0.007945064455270767
+    ],
+    [
+      0.9121468663215637,
+      0.3017626404762268,
+      0.015668414533138275
+    ],
+    [
+      0.9129393696784973,
+      0.3085213005542755,
+      0.025093236938118935
+    ],
+    [
+      0.9105417132377625,
+      0.31389907002449036,
+      0.027546964585781097
+    ],
+    [
+      0.9071852564811707,
+      0.3120849132537842,
+      0.03247188404202461
+    ],
+    [
+      0.9051006436347961,
+      0.3091795742511749,
+      0.032858919352293015
+    ],
+    [
+      0.9083486795425415,
+      0.2966174781322479,
+      0.01514587551355362
+    ],
+    [
+      0.9075235724449158,
+      0.30138930678367615,
+      0.021334711462259293
+    ],
+    [
+      0.9079986214637756,
+      0.29835373163223267,
+      0.02746656723320484
+    ],
+    [
+      0.9129407405853271,
+      0.2828837037086487,
+      0.016659488901495934
+    ],
+    [
+      0.9075294733047485,
+      0.277778685092926,
+      0.018749654293060303
+    ],
+    [
+      0.9066157341003418,
+      0.2570352256298065,
+      -0.023353010416030884
+    ],
+    [
+      0.8453213572502136,
+      0.21015217900276184,
+      0.004401203244924545
+    ],
+    [
+      0.7432854771614075,
+      -0.2863377034664154,
+      -0.5181219577789307
+    ],
+    [
+      0.7892472147941589,
+      -0.3175583481788635,
+      -0.4621630012989044
+    ],
+    [
+      0.8424280881881714,
+      -0.27353712916374207,
+      -0.3640143871307373
+    ],
+    [
+      0.8807405829429626,
+      -0.17406466603279114,
+      -0.1975860297679901
+    ],
+    [
+      0.8792486190795898,
+      -0.0876227393746376,
+      -0.05443630367517471
+    ],
+    [
+      0.8983479738235474,
+      -0.05946964770555496,
+      -0.024590125307440758
+    ],
+    [
+      0.9208082556724548,
+      -0.04226618632674217,
+      -0.011732064187526703
+    ],
+    [
+      0.9270815253257751,
+      -0.031627628952264786,
+      -0.011828380636870861
+    ],
+    [
+      0.8967341184616089,
+      0.07223844528198242,
+      -0.052011530846357346
+    ],
+    [
+      0.9210888147354126,
+      0.09254957735538483,
+      -0.12288066744804382
+    ],
+    [
+      0.9017335772514343,
+      0.15522229671478271,
+      -0.1162654459476471
+    ],
+    [
+      0.9036570191383362,
+      0.16047777235507965,
+      -0.10641035437583923
+    ],
+    [
+      0.9019683599472046,
+      0.1781817376613617,
+      -0.10109048336744308
+    ],
+    [
+      0.8985017538070679,
+      0.19391565024852753,
+      -0.08224029093980789
+    ],
+    [
+      0.8921547532081604,
+      0.18936491012573242,
+      -0.0908617153763771
+    ],
+    [
+      0.8615050315856934,
+      0.1657450944185257,
+      -0.09168890118598938
+    ],
+    [
+      0.7401072382926941,
+      -0.2992449700832367,
+      -0.5137431025505066
+    ],
+    [
+      0.7826933860778809,
+      -0.3294595181941986,
+      -0.46144774556159973
+    ],
+    [
+      0.813868522644043,
+      -0.31885212659835815,
+      -0.41976413130760193
+    ],
+    [
+      0.8703866600990295,
+      -0.23383228480815887,
+      -0.31103238463401794
+    ],
+    [
+      0.8708317875862122,
+      -0.09447474032640457,
+      -0.11710496246814728
+    ],
+    [
+      0.9064053893089294,
+      -0.09253940731287003,
+      -0.0631772056221962
+    ],
+    [
+      0.9177181124687195,
+      -0.12031687051057816,
+      -0.004514399450272322
+    ],
+    [
+      0.9111762642860413,
+      -0.06235800310969353,
+      0.10731284320354462
+    ],
+    [
+      0.9204826951026917,
+      -0.057009804993867874,
+      0.11394544690847397
+    ],
+    [
+      0.8962895274162292,
+      -0.0018140983302146196,
+      0.16128943860530853
+    ],
+    [
+      0.9131950736045837,
+      0.001045167213305831,
+      0.12720556557178497
+    ],
+    [
+      0.940025269985199,
+      0.00751092191785574,
+      0.06949643045663834
+    ],
+    [
+      0.9428706765174866,
+      0.07520655542612076,
+      0.010156272910535336
+    ],
+    [
+      0.8889873027801514,
+      0.17596028745174408,
+      0.03157024458050728
+    ],
+    [
+      0.9128847122192383,
+      0.19984276592731476,
+      -0.04011125862598419
+    ],
+    [
+      0.9199154376983643,
+      0.2542400062084198,
+      -0.04857289046049118
+    ],
+    [
+      0.9204744100570679,
+      0.2647278308868408,
+      -0.06228266656398773
+    ],
+    [
+      0.917492687702179,
+      0.2874790132045746,
+      -0.06305557489395142
+    ],
+    [
+      0.9161502718925476,
+      0.2988901138305664,
+      -0.0501868836581707
+    ],
+    [
+      0.9136829376220703,
+      0.3089139461517334,
+      -0.035589687526226044
+    ],
+    [
+      0.9112100005149841,
+      0.3087954819202423,
+      -0.028401469811797142
+    ],
+    [
+      0.908928632736206,
+      0.30607929825782776,
+      -0.025073079392313957
+    ],
+    [
+      0.9137859344482422,
+      0.29041898250579834,
+      -0.047234803438186646
+    ],
+    [
+      0.9095200300216675,
+      0.2990325093269348,
+      -0.045793261379003525
+    ],
+    [
+      0.9143495559692383,
+      0.2859220504760742,
+      -0.04723769798874855
+    ],
+    [
+      0.9110055565834045,
+      0.28179681301116943,
+      -0.04650768265128136
+    ],
+    [
+      0.9093248844146729,
+      0.2583305835723877,
+      -0.06868606805801392
+    ],
+    [
+      0.890812873840332,
+      0.2159269005060196,
+      -0.07259386032819748
+    ],
+    [
+      0.751052737236023,
+      -0.3411537706851959,
+      -0.4092359244823456
+    ],
+    [
+      0.7782837748527527,
+      -0.3710992634296417,
+      -0.2801468074321747
+    ],
+    [
+      0.8364483714103699,
+      -0.3660426735877991,
+      -0.13794468343257904
+    ],
+    [
+      0.8628728985786438,
+      -0.3299044072628021,
+      -0.013648269698023796
+    ],
+    [
+      0.8523703217506409,
+      -0.3239166736602783,
+      0.16003841161727905
+    ],
+    [
+      0.8205361366271973,
+      -0.32028433680534363,
+      0.24954921007156372
+    ],
+    [
+      0.7752362489700317,
+      -0.3757052719593048,
+      0.28708505630493164
+    ],
+    [
+      0.8012341260910034,
+      -0.37245672941207886,
+      0.3044884502887726
+    ],
+    [
+      0.79441899061203,
+      -0.3628386855125427,
+      0.35292625427246094
+    ],
+    [
+      0.7943652868270874,
+      -0.3235217332839966,
+      0.38448578119277954
+    ],
+    [
+      0.7792571783065796,
+      -0.2990974485874176,
+      0.43468356132507324
+    ],
+    [
+      0.7482784390449524,
+      -0.28525152802467346,
+      0.48441049456596375
+    ],
+    [
+      0.7719165682792664,
+      -0.28834789991378784,
+      0.45670267939567566
+    ],
+    [
+      0.7728082537651062,
+      -0.26703739166259766,
+      0.4673474431037903
+    ],
+    [
+      0.8105850219726562,
+      -0.29431769251823425,
+      0.40273499488830566
+    ],
+    [
+      0.8456683158874512,
+      -0.29269129037857056,
+      0.32871365547180176
+    ],
+    [
+      0.8419453501701355,
+      -0.29143133759498596,
+      0.3079290986061096
+    ],
+    [
+      0.837104856967926,
+      -0.25195154547691345,
+      0.20422042906284332
+    ],
+    [
+      0.8401826620101929,
+      -0.2613493502140045,
+      0.08168160915374756
+    ],
+    [
+      0.8016836643218994,
+      -0.24419228732585907,
+      0.07858336716890335
+    ],
+    [
+      0.7299590110778809,
+      -0.2572506070137024,
+      -0.0066411797888576984
+    ],
+    [
+      0.7243713736534119,
+      -0.23183897137641907,
+      0.035966794937849045
+    ],
+    [
+      0.7342211008071899,
+      -0.21268907189369202,
+      0.008744319900870323
+    ],
+    [
+      0.7361710667610168,
+      -0.20447848737239838,
+      0.006051380652934313
+    ]
+  ],
+  "models": [
+    "meta-llama/Llama-3.1-8B",
+    "meta-llama/Llama-3.2-1B",
+    "meta-llama/Llama-3.2-3B",
+    "openai/gpt-oss-20b"
+  ]
+}
